@@ -1,0 +1,8 @@
+The test data set includes github data and mailing list data on Diaspora from 2010 to 2018.
+
+diaspora_git.tsv
+    - one row per commit to master branche
+    - columns seperated by tab: header, author's name, author's e-mail adress, date and time, commit message, first changed file, second changed file, third changed file, ...
+    
+diaspora_discission_mail.tsv
+
